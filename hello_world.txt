@@ -1,0 +1,4 @@
+Just adding some text per assignment. 
+A few things of note:
+Should read further on manipulating the command line
+Should also read deeper into Git About Version Control
